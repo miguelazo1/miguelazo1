@@ -140,7 +140,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Si lo puedes imaginar lo puedes programar...✨</b>
 
 </div>
 <br>
